@@ -1,0 +1,6 @@
+finance_core.cpp
+setup.py
+finance_core.egg-info/PKG-INFO
+finance_core.egg-info/SOURCES.txt
+finance_core.egg-info/dependency_links.txt
+finance_core.egg-info/top_level.txt
