@@ -1,0 +1,1 @@
+This project can solve sma and bollinger bands through c++ and data was retrieve through python. This program aims to show the average of stockprices and the volatility of the stocks to make descisions. 
